@@ -1,0 +1,25 @@
+{
+  "name": "grug-engineering",
+  "version": "0.1.0",
+  "description": "Claude Code plugin: grug-brained engineering mode. Simplicity-first slash commands and skill. Inspired by grugbrain.dev.",
+  "license": "MIT",
+  "files": [
+    ".claude-plugin/",
+    "skills/",
+    "commands/",
+    "global-rules.md",
+    "repo-snippets/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "claude-code",
+    "claude-plugin",
+    "grug",
+    "simplicity",
+    "code-review"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

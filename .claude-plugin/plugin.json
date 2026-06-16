@@ -1,0 +1,16 @@
+{
+  "name": "grug-engineering",
+  "displayName": "Grug Engineering",
+  "version": "0.1.0",
+  "description": "Simplicity-first engineering mode: grug-brained slash commands, skill, and optional global rules. Inspired by grugbrain.dev.",
+  "author": {
+    "name": "Ershad Qaderi",
+    "email": "eqaderi@dataguard.de"
+  },
+  "homepage": "https://grugbrain.dev",
+  "license": "MIT",
+  "repository": "https://github.com/eqaderi/grug-claude-plugin",
+  "keywords": ["grug", "simplicity", "code-review", "engineering"],
+  "skills": "./skills/",
+  "commands": "./commands/"
+}
