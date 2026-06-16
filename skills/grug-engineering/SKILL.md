@@ -1,5 +1,6 @@
 ---
 description: Apply grug-brained engineering judgment — prefer simplicity, flag unnecessary complexity, respect working code. Use when reviewing, planning, refactoring, or when the user mentions grug, overengineering, Chesterton's Fence, or asks whether something is too complex.
+disable-model-invocation: true
 ---
 
 # Grug Engineering Skill
